@@ -67,3 +67,39 @@ if (c > max)
 Console.WriteLine($"Максимальное число: {max}");
 */
 
+//Задача 3. Проверка числа на четность.
+
+/*
+Console.WriteLine("Проверка числа на четность");
+
+Console.Write("Введите число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+if (a % 2 == 0)
+{
+    Console.WriteLine($"Число {a} является четным");
+}
+else
+{
+    Console.WriteLine($"Число {a} является нечетным");
+}
+*/
+
+//Задача 4. Показать все четные числа от 1 до n.
+/*
+Console.WriteLine("Вывод всех четных чисел от 0 до n");
+
+Console.Write("Введите число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+int current = 0;
+
+while (current <= a)
+{
+    if (current % 2 == 0)
+    {
+        Console.Write(current + " ");
+    }
+current++;    
+}
+*/

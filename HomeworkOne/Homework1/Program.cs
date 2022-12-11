@@ -43,4 +43,27 @@ Console.WriteLine($"Максимальное число: {max}");
 */
 
 
-//Задача №2.
+//Задача №2. Решение для 3х чисел.
+
+/*
+Console.WriteLine("Вывод максимального числа из 3х чисел");
+
+Console.Write("Первое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Второе число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.Write("Третье число: ");
+int c = Convert.ToInt32(Console.ReadLine());
+int max = a;
+
+if (b > a)
+{
+    max = b;
+}
+if (c > max)
+{
+    max = c;
+}
+Console.WriteLine($"Максимальное число: {max}");
+*/
+

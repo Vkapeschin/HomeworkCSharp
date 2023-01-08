@@ -1,28 +1,77 @@
 ﻿/*
 Задача 19. Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+*/
 
-Console.Write("Введите число: ");
+/*
+int Method1 (int num)
+{
+    int num2 = num;
+    int i = 1;
+    while (num2 >= 10)
+    {
+        num2 = num2 / 10;
+        i = i + 1;
+    }
+    return i;
+}
+
+bool Method2 (int num, int i)
+{
+    if (num >= 10)
+    {
+        while (num / Math.Pow(10, i - 2) == num % Math.Pow(10, i - 2))
+        {
+            num = num / 10;
+            num = num % Convert.ToInt32(Math.Pow(10, i - 3));
+            i = i - 2;
+            Console.WriteLine($"{num }");
+        }
+    }
+}
+
+Console.Write("Input a number: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-int num2 = num;
-int num3 = num;
-int i = 1;
-while (num2 >= 10)
+int i = Method1(num);
+bool result = Method2(num, i);
+Console.Write($"Does number {num} is polyndrom: {result}");
+*/
+
+
+/*
+Требуется найти решение. Пытался сравнивать первую и последнюю цифры, затем отсекать их от числа и сравнивать следущую пару.
+Непонятно, как остановить цикл и как вернуть в основную программу результат.
+Ниже написал решение из интернета: сумма всех разрядов у палиндрома в прямой и обратной последовательности будут равны.
+*/
+
+/*
+bool Method (int num)
 {
-    num2 = num2 / 10;
-    i = i + 1;
+    int sum = 0;
+    int temp = 0;
+    int rest = num;
+    while (rest >= 1)
+    {
+        temp = rest % 10;
+        sum = sum * 10 + temp;
+        rest = rest / 10;
+    }
+
+    if (num == sum)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
 }
 
-while (num3 / Math.Pow(10, i - 2) == num3 % Math.Pow(10, i - 2))
-{
-    num3 = num3 / 10;
-    num3 = num3 % Convert.ToInt32(Math.Pow(10, i - 3));
-    i = i - 2;
-    Console.WriteLine($"{num3 }");
-}
+Console.Write("Input a number: ");
+int prNum = Convert.ToInt32(Console.ReadLine());
 
-Требуется найти решение.
-
+bool result = Method(prNum);
+Console.Write($"Does {prNum} a palindrom {result}");
 */
 
 /*

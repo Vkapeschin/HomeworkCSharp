@@ -1,0 +1,15 @@
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\bin\Debug\net6.0\Homework4.exe
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\bin\Debug\net6.0\Homework4.deps.json
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\bin\Debug\net6.0\Homework4.runtimeconfig.json
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\bin\Debug\net6.0\Homework4.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\bin\Debug\net6.0\Homework4.pdb
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\Homework4.csproj.AssemblyReference.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\Homework4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\Homework4.AssemblyInfoInputs.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\Homework4.AssemblyInfo.cs
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\Homework4.csproj.CoreCompileInputs.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\Homework4.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\refint\Homework4.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\Homework4.pdb
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\Homework4.genruntimeconfig.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson4\Homework4\obj\Debug\net6.0\ref\Homework4.dll

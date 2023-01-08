@@ -12,7 +12,7 @@ for (int row = 0; row < 2; row++)
 */
 
 
-
+/*
 void Method (int[,] matr)
 {
     for (int rows = 0; rows < matr.GetLength(0); rows++)
@@ -42,4 +42,31 @@ Method (matrix);
 FillArray (matrix);
 Console.WriteLine("");
 Method (matrix);
+*/
 
+/*
+void PrintImage(int[,] image)
+{
+    for (int i = 0; i < image.GetLength(0); i++)
+    {
+        for (int j = 0; j < image.GetLength(1); j++)
+        {
+            if (image[i, j] == 0) Console.Write(" ");
+            else Console.Write("+");
+        }
+    }
+}
+
+
+*/
+
+int Fibonacci(int n)
+{
+    if (n == 1 || n == 2) return 1;
+    else return Fibonacci (n-1) + Fibonacci (n-2);
+}
+
+for (int i = 1; i < 50; i++)
+{
+    Console.WriteLine($"f({i}) = {Fibonacci(i)}");
+}

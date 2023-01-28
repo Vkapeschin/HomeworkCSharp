@@ -1,0 +1,15 @@
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\Lesson7.csproj.AssemblyReference.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\Lesson7.AssemblyInfoInputs.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\Lesson7.AssemblyInfo.cs
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\Lesson7.csproj.CoreCompileInputs.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\bin\Debug\net6.0\Lesson7.exe
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\bin\Debug\net6.0\Lesson7.deps.json
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\bin\Debug\net6.0\Lesson7.runtimeconfig.json
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\bin\Debug\net6.0\Lesson7.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\bin\Debug\net6.0\Lesson7.pdb
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\Lesson7.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\refint\Lesson7.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\Lesson7.pdb
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\Lesson7.genruntimeconfig.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\Homework\HomeworkOne\Lesson7\obj\Debug\net6.0\ref\Lesson7.dll
